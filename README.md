@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego Wentz Antunes</h1>
-<h3 align="center">DevOps/Cloud Engineer</h3>
+<h3 align="center">SW/DevOps/Cloud Engineer</h3>
 
 - 👯 I’m looking to collaborate on the technologies below:
 
