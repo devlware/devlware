@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on the technologies below:
 
 <h3 align="center">
-  Amazon Cloud, Google Cloud, C, C++, Go, Python, Shell, Kubernetes, Microservices, Docker, Ruby, Terraform, Ansible, Jenkins, CircleCI, GitHub Actions, Linux, Database, Redis, Kafka, Helm, DataDog, NewRelic, ELK
+  Amazon Cloud, Google Cloud, C, Go, Python, Ruby, Shell, Kubernetes, Etcd, TiDB, Microservices, Docker, Terraform, Ansible, BuildKite, CircleCI, GitHub Actions, Linux, Database, Redis, Kafka, Helm, DataDog, NewRelic, ELK
 </h3>
 
 <a href="https://twitter.com/diegowa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="diegowa" height="30" width="30" /></a>
